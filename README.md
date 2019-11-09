@@ -1,6 +1,6 @@
 # 🐍 My First Python Desktop App - Order Manager
 
-⭐️Simple Desktop GUI CRUD application build with `Python`, `SQLite` and `tKinter` - [View Documentation](https://bankole2000.github.io/eventfinder)
+⭐️Simple Desktop GUI CRUD application build with `Python`, `SQLite` and `tKinter` - [View Documentation](https://github.com/Bankole2000/order_manager/blob/master/README.md)
 
 [![Practice](https://img.shields.io/badge/Practice-Python-green.svg)]()
 
